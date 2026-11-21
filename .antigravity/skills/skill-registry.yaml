@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: algerian-restitution-roadmap-and-qsf-trust-execution
-  name: Algerian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/algerian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_dz_001
+    name: Algeria Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_002
+    name: Algeria Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_003
+    name: Algeria Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_004
+    name: Algeria Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_005
+    name: Algeria Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_006
+    name: Algeria Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_007
+    name: Algeria Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_008
+    name: Algeria Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_009
+    name: Algeria Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_010
+    name: Algeria Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_011
+    name: Algeria Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_012
+    name: Algeria Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_013
+    name: Algeria Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_014
+    name: Algeria Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_015
+    name: Algeria Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_016
+    name: Algeria Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_017
+    name: Algeria Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_018
+    name: Algeria Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_019
+    name: Algeria Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_020
+    name: Algeria Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_021
+    name: Algeria Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_022
+    name: Algeria Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_023
+    name: Algeria Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_024
+    name: Algeria Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_025
+    name: Algeria Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_026
+    name: Algeria Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_027
+    name: Algeria Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_028
+    name: Algeria Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_029
+    name: Algeria Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_030
+    name: Algeria Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_031
+    name: Algeria Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_032
+    name: Algeria Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_033
+    name: Algeria Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_034
+    name: Algeria Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_035
+    name: Algeria Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_036
+    name: Algeria Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_037
+    name: Algeria Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_038
+    name: Algeria Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_039
+    name: Algeria Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_040
+    name: Algeria Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_041
+    name: Algeria Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_042
+    name: Algeria Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_043
+    name: Algeria Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_044
+    name: Algeria Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_045
+    name: Algeria Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_046
+    name: Algeria Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_047
+    name: Algeria Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_048
+    name: Algeria Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_049
+    name: Algeria Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_050
+    name: Algeria Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_051
+    name: Algeria Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_052
+    name: Algeria Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_053
+    name: Algeria Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_054
+    name: Algeria Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_055
+    name: Algeria Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_056
+    name: Algeria Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_057
+    name: Algeria Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_058
+    name: Algeria Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_059
+    name: Algeria Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_060
+    name: Algeria Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_061
+    name: Algeria Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_062
+    name: Algeria Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_063
+    name: Algeria Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_064
+    name: Algeria Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_065
+    name: Algeria Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_066
+    name: Algeria Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_067
+    name: Algeria Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_068
+    name: Algeria Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_069
+    name: Algeria Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_070
+    name: Algeria Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_071
+    name: Algeria Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_072
+    name: Algeria Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_073
+    name: Algeria Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_074
+    name: Algeria Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_075
+    name: Algeria Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_076
+    name: Algeria Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_077
+    name: Algeria Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_078
+    name: Algeria Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_079
+    name: Algeria Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_080
+    name: Algeria Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_081
+    name: Algeria Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_082
+    name: Algeria Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_083
+    name: Algeria Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_084
+    name: Algeria Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_085
+    name: Algeria Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_086
+    name: Algeria Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_087
+    name: Algeria Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_088
+    name: Algeria Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_089
+    name: Algeria Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_090
+    name: Algeria Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_091
+    name: Algeria Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_092
+    name: Algeria Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_093
+    name: Algeria Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_094
+    name: Algeria Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_095
+    name: Algeria Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_096
+    name: Algeria Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_097
+    name: Algeria Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_098
+    name: Algeria Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_099
+    name: Algeria Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_100
+    name: Algeria Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_101
+    name: Algeria Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_102
+    name: Algeria Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_103
+    name: Algeria Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_104
+    name: Algeria Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_105
+    name: Algeria Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_106
+    name: Algeria Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_107
+    name: Algeria Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_108
+    name: Algeria Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_109
+    name: Algeria Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_110
+    name: Algeria Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_111
+    name: Algeria Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_112
+    name: Algeria Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_113
+    name: Algeria Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_114
+    name: Algeria Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_115
+    name: Algeria Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_116
+    name: Algeria Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_117
+    name: Algeria Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_118
+    name: Algeria Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_119
+    name: Algeria Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_120
+    name: Algeria Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_121
+    name: Algeria Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_122
+    name: Algeria Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_123
+    name: Algeria Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_124
+    name: Algeria Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_125
+    name: Algeria Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_126
+    name: Algeria Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_127
+    name: Algeria Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_128
+    name: Algeria Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_129
+    name: Algeria Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_130
+    name: Algeria Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_131
+    name: Algeria Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_132
+    name: Algeria Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_133
+    name: Algeria Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_134
+    name: Algeria Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_135
+    name: Algeria Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_136
+    name: Algeria Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_137
+    name: Algeria Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_138
+    name: Algeria Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_139
+    name: Algeria Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_140
+    name: Algeria Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_141
+    name: Algeria Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_142
+    name: Algeria Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_143
+    name: Algeria Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_144
+    name: Algeria Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_145
+    name: Algeria Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_146
+    name: Algeria Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_147
+    name: Algeria Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_148
+    name: Algeria Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_149
+    name: Algeria Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_150
+    name: Algeria Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_151
+    name: Algeria Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_152
+    name: Algeria Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_153
+    name: Algeria Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_154
+    name: Algeria Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_155
+    name: Algeria Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_156
+    name: Algeria Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_157
+    name: Algeria Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_158
+    name: Algeria Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_159
+    name: Algeria Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_160
+    name: Algeria Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_161
+    name: Algeria Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_162
+    name: Algeria Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_163
+    name: Algeria Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_164
+    name: Algeria Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_165
+    name: Algeria Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_166
+    name: Algeria Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_167
+    name: Algeria Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_168
+    name: Algeria Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_169
+    name: Algeria Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_170
+    name: Algeria Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_171
+    name: Algeria Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_172
+    name: Algeria Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_173
+    name: Algeria Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_174
+    name: Algeria Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_175
+    name: Algeria Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_176
+    name: Algeria Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_177
+    name: Algeria Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_178
+    name: Algeria Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_179
+    name: Algeria Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_180
+    name: Algeria Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_181
+    name: Algeria Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_182
+    name: Algeria Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_183
+    name: Algeria Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_184
+    name: Algeria Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_185
+    name: Algeria Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_186
+    name: Algeria Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_187
+    name: Algeria Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_188
+    name: Algeria Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_189
+    name: Algeria Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_190
+    name: Algeria Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_191
+    name: Algeria Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_192
+    name: Algeria Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_193
+    name: Algeria Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_194
+    name: Algeria Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_195
+    name: Algeria Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_196
+    name: Algeria Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_197
+    name: Algeria Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_198
+    name: Algeria Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_199
+    name: Algeria Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_200
+    name: Algeria Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_201
+    name: Algeria Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_202
+    name: Algeria Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_203
+    name: Algeria Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_204
+    name: Algeria Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_205
+    name: Algeria Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_206
+    name: Algeria Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_207
+    name: Algeria Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_208
+    name: Algeria Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_209
+    name: Algeria Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_210
+    name: Algeria Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_211
+    name: Algeria Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_212
+    name: Algeria Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_213
+    name: Algeria Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_214
+    name: Algeria Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_215
+    name: Algeria Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_216
+    name: Algeria Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_217
+    name: Algeria Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_218
+    name: Algeria Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_219
+    name: Algeria Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_220
+    name: Algeria Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_221
+    name: Algeria Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_222
+    name: Algeria Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_223
+    name: Algeria Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_224
+    name: Algeria Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_225
+    name: Algeria Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_226
+    name: Algeria Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_227
+    name: Algeria Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_228
+    name: Algeria Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_229
+    name: Algeria Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_230
+    name: Algeria Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_231
+    name: Algeria Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_232
+    name: Algeria Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_233
+    name: Algeria Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_234
+    name: Algeria Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_235
+    name: Algeria Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_236
+    name: Algeria Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_237
+    name: Algeria Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_238
+    name: Algeria Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_239
+    name: Algeria Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_240
+    name: Algeria Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_241
+    name: Algeria Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_242
+    name: Algeria Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_243
+    name: Algeria Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_244
+    name: Algeria Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_245
+    name: Algeria Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_246
+    name: Algeria Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_247
+    name: Algeria Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_248
+    name: Algeria Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_249
+    name: Algeria Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_250
+    name: Algeria Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_251
+    name: Algeria Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_dz_252
+    name: Algeria Skill 252
+    status: ACTIVE_SCAFFOLD
