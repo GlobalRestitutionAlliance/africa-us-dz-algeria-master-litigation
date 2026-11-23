@@ -1,0 +1,2 @@
+repo,source_label,url,attempted_method,failure_reason,first_attempt_utc,last_attempt_utc,status,owner,next_action,notes
+US_DZ_ALGERIA,UNESCO Slave Route,https://www.unesco.org/en/routes-enslaved-peoples,browser+direct-urllib,Remote end closed connection without response,2026-11-23,2026-11-23,PENDING_RECAPTURE,UNASSIGNED,"Retry browser/direct capture; if blocked, manual/FOIA/custodian path; do not fabricate.",Wave 3 capture failed; browse tool unavailable for later direct-fallback pass.
